@@ -1,24 +1,28 @@
 
+
 {
-"name":"ems-fitness-ultimate",
-"private":true,
-"version":"0.0.0",
-"type":"module",
-"scripts":{
-"dev":"vite",
-"build":"vite build",
-"preview":"vite preview"
-},
-"dependencies":{
-"react":"^18.3.1",
-"react-dom":"^18.3.1",
-"react-router-dom":"^6.26.2",
-"bootstrap":"^5.3.3",
-"aos":"^2.3.4",
-"framer-motion":"^11.0.0"
-},
-"devDependencies":{
-"vite":"^5.4.2",
-"@vitejs/plugin-react":"^4.3.1"
-}
+  "name": "ems-fitness-ultimate",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npx vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "bootstrap": "^5.3.3",
+    "aos": "^2.3.4",
+    "framer-motion": "^11.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
 }
