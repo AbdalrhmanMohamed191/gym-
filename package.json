@@ -13,8 +13,9 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.2",
+    "react-dom": "^18axe6yfdqszergdses3ty",
+    "react-router-dom": "^6.15.0",
+    "react-icons": "^4.11.0",
     "bootstrap": "^5.3.3",
     "aos": "^2.3.4",
     "framer-motion": "^11.0.0"
